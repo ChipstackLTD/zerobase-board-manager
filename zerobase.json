@@ -1,16 +1,16 @@
 {
   "packages": [
     {
-      "name": "WCH",
-      "websiteURL": "https://www.wch.cn/",
-      "maintainer": "WCH",
-      "email": "tech@wch.cn",
+      "name": "Zerobase",
+      "websiteURL": "https://chipstack.vn/",
+      "maintainer": "Chipstack Ltd",
+      "email": "support@chipstack.vn",
       "help": {
-        "online": "https://www.wch.cn/"
+        "online": "https://zerobase.chipstack.vn"
       },
       "platforms": [
         {
-          "name": "CH32 MCU EVT Boards",
+          "name": "Zerobase",
           "architecture": "ch32v",
           "version": "1.0.0",
           "category": "Contributed",
@@ -19,8 +19,7 @@
           "checksum": "SHA-256:6FD92A6C0054979A460E6C14AC656FBACAC3BEFAB92F33D4B1B7C0A0E035FD86",
           "size": "411583",
           "boards": [
-            {"name": "CH32V20x EVT Board"},
-            {"name": "CH32V00x EVT Board"}
+            {"name": "Zerobase"}
           ],
           "toolsDependencies": [
             {
@@ -34,124 +33,7 @@
               "version": "1.0.0"
             }
           ]
-        },
-        {
-          "name": "CH32 MCU EVT Boards",
-          "architecture": "ch32v",
-          "version": "1.0.1",
-          "category": "Contributed",
-          "url": "https://codeload.github.com/openwch/arduino_core_ch32/zip/refs/tags/1.0.1",
-          "archiveFileName": "arduino_core_ch32-1.0.1.zip",
-          "checksum": "SHA-256:964E924D3B2CA648DD70F3E1D87BBB2E62869F9ECA23604745060A1B4AA26739",
-          "size": "553015",
-          "boards": [
-            {"name": "CH32X035 EVT Board"},		  
-            {"name": "CH32V20x EVT Board"},
-            {"name": "CH32V00x EVT Board"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "WCH",
-              "name": "riscv-none-embed-gcc",
-              "version": "8.2.0"
-            },
-            {
-              "packager": "WCH",
-              "name": "openocd",
-              "version": "1.0.0"
-            }
-          ]
-        },
-        {
-          "name": "CH32 MCU EVT Boards",
-          "architecture": "ch32v",
-          "version": "1.0.2",
-          "category": "Contributed",
-          "url": "https://codeload.github.com/openwch/arduino_core_ch32/zip/refs/tags/1.0.2",
-          "archiveFileName": "arduino_core_ch32-1.0.2.zip",
-          "checksum": "SHA-256:C7CF46D0AA447B78FBF239251085D009B47F436B3A22C14AC116D7FA4E492397",
-          "size": "583402",
-          "boards": [
-            {"name": "CH32X035 EVT Board"},		  
-            {"name": "CH32V20x EVT Board"},
-            {"name": "CH32V00x EVT Board"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "WCH",
-              "name": "riscv-none-embed-gcc",
-              "version": "8.2.0"
-            },
-            {
-              "packager": "WCH",
-              "name": "openocd",
-              "version": "1.0.0"
-            }
-          ]
-        },
-        {
-          "name": "CH32 MCU EVT Boards",
-          "architecture": "ch32v",
-          "version": "1.0.3",
-          "category": "Contributed",
-          "url": "https://codeload.github.com/openwch/arduino_core_ch32/zip/refs/tags/1.0.3",
-          "archiveFileName": "arduino_core_ch32-1.0.3.zip",
-          "checksum": "SHA-256:233B4DC7D1930BBE93FC0F00964ADFC24DDC012585121D113F98CEF8652A1362",
-          "size": "964954",
-          "boards": [
-            {"name": "CH32X035 EVT Board"},		  
-            {"name": "CH32V30x EVT Board"},
-            {"name": "CH32V20x EVT Board"},			
-            {"name": "CH32V10x EVT Board"},			
-            {"name": "CH32V00x EVT Board"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "WCH",
-              "name": "riscv-none-embed-gcc",
-              "version": "8.2.0"
-            },
-            {
-              "packager": "WCH",
-              "name": "openocd",
-              "version": "1.0.0"
-            }
-          ]
-        },
-        {
-          "name": "CH32 MCU EVT Boards",
-          "architecture": "ch32v",
-          "version": "1.0.4",
-          "category": "Contributed",
-          "url": "https://codeload.github.com/openwch/arduino_core_ch32/zip/refs/tags/1.0.4",
-          "archiveFileName": "arduino_core_ch32-1.0.4.zip",
-          "checksum": "SHA-256:8F4E975F763183791AAAC5E537584DFD13DD044BD5DC05D09B0E2C7DECCD14C5",
-          "size": "980095",
-          "boards": [
-            {"name": "CH32X035 EVT Board"},		  
-            {"name": "CH32V30x EVT Board"},
-            {"name": "CH32V20x EVT Board"},			
-            {"name": "CH32V10x EVT Board"},			
-            {"name": "CH32V00x EVT Board"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "WCH",
-              "name": "riscv-none-embed-gcc",
-              "version": "8.2.0"
-            },
-            {
-              "packager": "WCH",
-              "name": "openocd",
-              "version": "1.0.0"
-            },
-            {
-              "packager": "WCH",
-              "name": "beforeinstall",
-              "version": "1.0.0"
-            }			
-          ]
-        }		
+        }
       ],
       "tools": [
         {
@@ -237,7 +119,35 @@
               "size": "507269"
             }				
           ]
-        }		
+        },
+	{
+          "name": "minichlink",
+          "version": "1.0.0",
+          "systems":
+          [
+            {
+              "host": "x86_64-linux-gnu",
+              "url": "https://github.com/ChipstackLTD/zerobase-extra/archive/refs/tags/v1.0.0.tar.gz",
+              "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
+              "checksum": "SHA-256:ee3ad82ab6e83e4c96d185caa8fa11d0d17b388ab52eb4c2d985150c569baf92",
+              "size": "1699550"
+            },
+            {
+              "host": "i686-mingw32",
+	      "url": "https://github.com/ChipstackLTD/zerobase-extra/archive/refs/tags/v1.0.0.tar.gz",
+              "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
+              "checksum": "SHA-256:ee3ad82ab6e83e4c96d185caa8fa11d0d17b388ab52eb4c2d985150c569baf92",
+              "size": "1699550"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+	      "url": "https://github.com/ChipstackLTD/zerobase-extra/archive/refs/tags/v1.0.0.tar.gz",
+              "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
+              "checksum": "SHA-256:ee3ad82ab6e83e4c96d185caa8fa11d0d17b388ab52eb4c2d985150c569baf92",
+              "size": "1699550"
+            }
+          ]
+        }	
       ]
     }
   ]
