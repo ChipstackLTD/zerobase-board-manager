@@ -1,9 +1,9 @@
 {
   "packages": [
     {
-      "name": "UIAP",
+      "name": "ZBCS",
       "websiteURL": "https://www.uiap.jp/uiapduino/pro-micro/ch32v003/",
-      "maintainer": "Yuuki Umeta",
+      "maintainer": "Chipstack",
       "email": "yuukiumeta@uiap.jp",
       "help": {
         "online": "https://github.com/YuukiUmeta-UIAP/arduino_core_ch32"
