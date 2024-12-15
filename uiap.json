@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "UIAPduino",
+          "name": "Zerobase",
           "architecture": "ch32v",
           "version": "1.0.42",
           "category": "Contributed",
