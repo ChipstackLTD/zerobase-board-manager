@@ -17,7 +17,7 @@
           "url": "https://codeload.github.com/ChipstackLTD/Zerobase/zip/refs/tags/v1.0.0",
           "archiveFileName": "Zerobase-1.0.0.zip",
           "checksum": "SHA-256:E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
-          "size": "411583",
+          "size": "1355590",
           "boards": [
             {"name": "Zerobase"}
           ],
