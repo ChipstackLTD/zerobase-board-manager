@@ -14,9 +14,9 @@
           "architecture": "ch32v",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://codeload.github.com/openwch/arduino_core_ch32/zip/refs/tags/1.0.0",
-          "archiveFileName": "arduino_core_ch32-1.0.0.zip",
-          "checksum": "SHA-256:6FD92A6C0054979A460E6C14AC656FBACAC3BEFAB92F33D4B1B7C0A0E035FD86",
+          "url": "https://github.com/ChipstackLTD/Zerobase/archive/refs/tags/v1.0.0.zip",
+          "archiveFileName": "v1.0.0.zip",
+          "checksum": "SHA-256:E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
           "size": "411583",
           "boards": [
             {"name": "Zerobase"}
@@ -139,21 +139,21 @@
               "host": "x86_64-linux-gnu",
               "url": "https://github.com/ChipstackLTD/zerobase-extra/archive/refs/tags/v1.0.0.tar.gz",
               "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
-              "checksum": "SHA-256:ee3ad82ab6e83e4c96d185caa8fa11d0d17b388ab52eb4c2d985150c569baf92",
+              "checksum": "SHA-256:EE3AD82AB6E83E4C96D185CAA8FA11D0D17B388AB52EB4C2D985150C569BAF92",
               "size": "1699550"
             },
             {
               "host": "i686-mingw32",
 	      "url": "https://github.com/ChipstackLTD/zerobase-extra/archive/refs/tags/v1.0.0.tar.gz",
               "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
-              "checksum": "SHA-256:ee3ad82ab6e83e4c96d185caa8fa11d0d17b388ab52eb4c2d985150c569baf92",
+              "checksum": "SHA-256:EE3AD82AB6E83E4C96D185CAA8FA11D0D17B388AB52EB4C2D985150C569BAF92",
               "size": "1699550"
             },
             {
               "host": "x86_64-apple-darwin",
 	      "url": "https://github.com/ChipstackLTD/zerobase-extra/archive/refs/tags/v1.0.0.tar.gz",
               "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
-              "checksum": "SHA-256:ee3ad82ab6e83e4c96d185caa8fa11d0d17b388ab52eb4c2d985150c569baf92",
+              "checksum": "SHA-256:EE3AD82AB6E83E4C96D185CAA8FA11D0D17B388AB52EB4C2D985150C569BAF92",
               "size": "1699550"
             }
           ]
