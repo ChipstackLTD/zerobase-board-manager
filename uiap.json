@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Zerobase by Chipstack",
+      "name": "Zerobase",
       "websiteURL": "https://chipstack.vn",
       "maintainer": "Yuuki Umeta",
       "email": "yuukiumeta@uiap.jp",
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Zerobase by Chipstack",
+          "name": "Zerobase",
           "architecture": "ch32v",
           "version": "1.0.42",
           "category": "Contributed",
