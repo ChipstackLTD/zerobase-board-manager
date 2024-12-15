@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Zerobase",
+          "name": "Zerobase by Chipstack",
           "architecture": "ch32v",
           "version": "1.0.0",
           "category": "Contributed",
