@@ -38,8 +38,8 @@
               "version": "1.0.0"
             },
             {
-              "packager": "Chipstack",
-              "name": "minichlink",
+              "packager": "UIAP",
+              "name": "minichlink-2982dfd",
               "version": "1.0.0"
             }
           ]
@@ -131,7 +131,7 @@
           ]
         },
         {
-          "name": "minichlink",
+          "name": "minichlink-2982dfd",
           "version": "1.0.0",
           "systems":
           [
@@ -162,4 +162,3 @@
     }
   ]
 }
-
