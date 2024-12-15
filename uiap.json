@@ -39,7 +39,7 @@
             },
             {
               "packager": "UIAP",
-              "name": "minichlink-2982dfd",
+              "name": "minichlink",
               "version": "1.0.0"
             }
           ]
@@ -131,7 +131,7 @@
           ]
         },
         {
-          "name": "minichlink-2982dfd",
+          "name": "minichlink",
           "version": "1.0.0",
           "systems":
           [
