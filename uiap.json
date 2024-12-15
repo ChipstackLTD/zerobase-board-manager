@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Zerobase",
+      "name": "zerobase",
       "websiteURL": "https://chipstack.vn",
       "maintainer": "Yuuki Umeta",
       "email": "yuukiumeta@uiap.jp",
