@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "UIAP",
+      "name": "ZB",
       "websiteURL": "https://www.uiap.jp/uiapduino/pro-micro/ch32v003/",
       "maintainer": "Chipstack",
       "email": "yuukiumeta@uiap.jp",
@@ -23,22 +23,22 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "UIAP",
+              "packager": "ZB",
               "name": "riscv-none-embed-gcc",
               "version": "8.2.0"
             },
             {
-              "packager": "UIAP",
+              "packager": "ZB",
               "name": "openocd",
               "version": "1.0.0"
             },
             {
-              "packager": "UIAP",
+              "packager": "ZB",
               "name": "beforeinstall",
               "version": "1.0.0"
             },
             {
-              "packager": "UIAP",
+              "packager": "ZB",
               "name": "minichlink",
               "version": "1.0.0"
             }
