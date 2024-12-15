@@ -1,8 +1,8 @@
 {
   "packages": [
     {
-      "name": "UIAP",
-      "websiteURL": "https://www.uiap.jp/uiapduino/pro-micro/ch32v003/",
+      "name": "Zerobase by Chipstack",
+      "websiteURL": "https://chipstack.vn",
       "maintainer": "Yuuki Umeta",
       "email": "yuukiumeta@uiap.jp",
       "help": {
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "UIAPduino",
+          "name": "Zerobase by Chipstack",
           "architecture": "ch32v",
           "version": "1.0.42",
           "category": "Contributed",
