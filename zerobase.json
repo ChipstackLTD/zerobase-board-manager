@@ -31,6 +31,16 @@
               "packager": "WCH",
               "name": "openocd",
               "version": "1.0.0"
+            },
+            {
+              "packager": "TianpeiLee",
+              "name": "beforeinstall",
+              "version": "1.0.0"
+            },
+            {
+              "packager": "Chipstack",
+              "name": "minichlink",
+              "version": "1.0.0"
             }
           ]
         }
