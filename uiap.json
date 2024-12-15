@@ -137,24 +137,24 @@
           [
             {
               "host": "x86_64-linux-gnu",
-              "url": "https://github.com/YuukiUmeta-UIAP/ch32v003fun/releases/download/1.0.0/minichlink-2982dfd-1.0.0.tar.gz",
-              "archiveFileName": "minichlink-2982dfd-1.0.0.tar.gz",
-              "checksum": "SHA-256:015804caf1ccb963e2482e0bd0c17df6513d383ca23a947c59604a20d24f2193",
-              "size": "313160"
+              "url": "https://codeload.github.com/ChipstackLTD/zerobase-extra/tar.gz/refs/tags/v1.0.0",
+              "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
+              "checksum": "SHA-256:EE3AD82AB6E83E4C96D185CAA8FA11D0D17B388AB52EB4C2D985150C569BAF92",
+              "size": "1699550"
             },
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/YuukiUmeta-UIAP/ch32v003fun/releases/download/1.0.0/minichlink-2982dfd-1.0.0.tar.gz",
-              "archiveFileName": "minichlink-2982dfd-1.0.0.tar.gz",
-              "checksum": "SHA-256:015804caf1ccb963e2482e0bd0c17df6513d383ca23a947c59604a20d24f2193",
-              "size": "313160"
+	      "url": "https://codeload.github.com/ChipstackLTD/zerobase-extra/tar.gz/refs/tags/v1.0.0",
+              "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
+              "checksum": "SHA-256:EE3AD82AB6E83E4C96D185CAA8FA11D0D17B388AB52EB4C2D985150C569BAF92",
+              "size": "1699550"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/YuukiUmeta-UIAP/ch32v003fun/releases/download/1.0.0/minichlink-2982dfd-1.0.0.tar.gz",
-              "archiveFileName": "minichlink-2982dfd-1.0.0.tar.gz",
-              "checksum": "SHA-256:015804caf1ccb963e2482e0bd0c17df6513d383ca23a947c59604a20d24f2193",
-              "size": "313160"
+	      "url": "https://codeload.github.com/ChipstackLTD/zerobase-extra/tar.gz/refs/tags/v1.0.0",
+              "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
+              "checksum": "SHA-256:EE3AD82AB6E83E4C96D185CAA8FA11D0D17B388AB52EB4C2D985150C569BAF92",
+              "size": "1699550"
             }
           ]
         }
