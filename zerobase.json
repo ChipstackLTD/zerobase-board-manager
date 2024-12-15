@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Zerobase",
+      "name": "ZB",
       "websiteURL": "https://chipstack.vn/",
       "maintainer": "Chipstack Ltd",
       "email": "support@chipstack.vn",
@@ -10,12 +10,12 @@
       },
       "platforms": [
         {
-          "name": "Zerobase by Chipstack",
+          "name": "Zerobase",
           "architecture": "ch32v",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/ChipstackLTD/Zerobase/archive/refs/tags/v1.0.0.zip",
-          "archiveFileName": "v1.0.0.zip",
+          "url": "https://codeload.github.com/ChipstackLTD/Zerobase/zip/refs/tags/v1.0.0",
+          "archiveFileName": "Zerobase-1.0.0.zip",
           "checksum": "SHA-256:E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
           "size": "411583",
           "boards": [
@@ -23,22 +23,22 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "WCH",
+              "packager": "ZB",
               "name": "riscv-none-embed-gcc",
               "version": "8.2.0"
             },
             {
-              "packager": "WCH",
+              "packager": "ZB",
               "name": "openocd",
               "version": "1.0.0"
             },
             {
-              "packager": "TianpeiLee",
+              "packager": "ZB",
               "name": "beforeinstall",
               "version": "1.0.0"
             },
             {
-              "packager": "Chipstack",
+              "packager": "ZB",
               "name": "minichlink",
               "version": "1.0.0"
             }
@@ -137,21 +137,21 @@
           [
             {
               "host": "x86_64-linux-gnu",
-              "url": "https://github.com/ChipstackLTD/zerobase-extra/archive/refs/tags/v1.0.0.tar.gz",
+              "url": "https://codeload.github.com/ChipstackLTD/zerobase-extra/tar.gz/refs/tags/v1.0.0",
               "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
               "checksum": "SHA-256:EE3AD82AB6E83E4C96D185CAA8FA11D0D17B388AB52EB4C2D985150C569BAF92",
               "size": "1699550"
             },
             {
               "host": "i686-mingw32",
-	      "url": "https://github.com/ChipstackLTD/zerobase-extra/archive/refs/tags/v1.0.0.tar.gz",
+	      "url": "https://codeload.github.com/ChipstackLTD/zerobase-extra/tar.gz/refs/tags/v1.0.0",
               "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
               "checksum": "SHA-256:EE3AD82AB6E83E4C96D185CAA8FA11D0D17B388AB52EB4C2D985150C569BAF92",
               "size": "1699550"
             },
             {
               "host": "x86_64-apple-darwin",
-	      "url": "https://github.com/ChipstackLTD/zerobase-extra/archive/refs/tags/v1.0.0.tar.gz",
+	      "url": "https://codeload.github.com/ChipstackLTD/zerobase-extra/tar.gz/refs/tags/v1.0.0",
               "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
               "checksum": "SHA-256:EE3AD82AB6E83E4C96D185CAA8FA11D0D17B388AB52EB4C2D985150C569BAF92",
               "size": "1699550"
