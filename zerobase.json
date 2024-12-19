@@ -137,24 +137,24 @@
           [
             {
               "host": "x86_64-linux-gnu",
-              "url": "https://codeload.github.com/ChipstackLTD/zerobase-extra/tar.gz/refs/tags/v1.0.0",
-              "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
-              "checksum": "SHA-256:EE3AD82AB6E83E4C96D185CAA8FA11D0D17B388AB52EB4C2D985150C569BAF92",
-              "size": "1699550"
+              "url": "https://codeload.github.com/ChipstackLTD/zerobase-uploader/tar.gz/refs/tags/v1.0.0",
+              "archiveFileName": "zerobase-uploader-1.0.0.tar.gz",
+              "checksum": "SHA-256:EE5562CA59F9249FBAB1FF8E6B12291627B5E0EE01AEA3F5D9E2F2F4BB97FB4C",
+              "size": "316053"
             },
             {
               "host": "i686-mingw32",
-	      "url": "https://codeload.github.com/ChipstackLTD/zerobase-extra/tar.gz/refs/tags/v1.0.0",
-              "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
-              "checksum": "SHA-256:EE3AD82AB6E83E4C96D185CAA8FA11D0D17B388AB52EB4C2D985150C569BAF92",
-              "size": "1699550"
+	      "url": "https://codeload.github.com/ChipstackLTD/zerobase-uploader/tar.gz/refs/tags/v1.0.0",
+              "archiveFileName": "zerobase-uploader-1.0.0.tar.gz",
+              "checksum": "SHA-256:EE5562CA59F9249FBAB1FF8E6B12291627B5E0EE01AEA3F5D9E2F2F4BB97FB4C",
+              "size": "316053"
             },
             {
               "host": "x86_64-apple-darwin",
-	      "url": "https://codeload.github.com/ChipstackLTD/zerobase-extra/tar.gz/refs/tags/v1.0.0",
-              "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
-              "checksum": "SHA-256:EE3AD82AB6E83E4C96D185CAA8FA11D0D17B388AB52EB4C2D985150C569BAF92",
-              "size": "1699550"
+	      "url": "https://codeload.github.com/ChipstackLTD/zerobase-uploader/tar.gz/refs/tags/v1.0.0",
+              "archiveFileName": "zerobase-uploader-1.0.0.tar.gz",
+              "checksum": "SHA-256:EE5562CA59F9249FBAB1FF8E6B12291627B5E0EE01AEA3F5D9E2F2F4BB97FB4C",
+              "size": "316053"
             }
           ]
         }	
