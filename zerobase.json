@@ -14,12 +14,12 @@
           "architecture": "ch32v",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/YuukiUmeta-UIAP/arduino_core_ch32/archive/refs/tags/1.0.42.zip",
-          "archiveFileName": "arduino_core_ch32-1.0.42.zip",
-          "checksum": "SHA-256:f54bd8d9810a55aea7bbe8ae6e37ed8ef7840815df60fc3d759a0685ea800e08",
-          "size": "1361688",
+          "url": "https://codeload.github.com/ChipstackLTD/Zerobase/zip/refs/tags/v1.0.0",
+          "archiveFileName": "Zerobase-1.0.0.zip",
+          "checksum": "SHA-256:BAD473FD4C554561312014DF73406A39D75403A4AA066B9E77FCDAFE2E99F5A7",
+          "size": "1355593",
           "boards": [
-            {"name": "Pro Micro CH32V003"}
+            {"name": "Zerobase"}
           ],
           "toolsDependencies": [
             {
@@ -137,24 +137,24 @@
           [
             {
               "host": "x86_64-linux-gnu",
-              "url": "https://codeload.github.com/ChipstackLTD/zerobase-extra/tar.gz/refs/tags/v1.0.0",
-              "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
-              "checksum": "SHA-256:EE3AD82AB6E83E4C96D185CAA8FA11D0D17B388AB52EB4C2D985150C569BAF92",
-              "size": "1699550"
+              "url": "https://github.com/YuukiUmeta-UIAP/ch32v003fun/releases/download/1.0.0/minichlink-2982dfd-1.0.0.tar.gz",
+              "archiveFileName": "minichlink-2982dfd-1.0.0.tar.gz",
+              "checksum": "SHA-256:015804caf1ccb963e2482e0bd0c17df6513d383ca23a947c59604a20d24f2193",
+              "size": "313160"
             },
             {
               "host": "i686-mingw32",
-	      "url": "https://codeload.github.com/ChipstackLTD/zerobase-extra/tar.gz/refs/tags/v1.0.0",
-              "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
-              "checksum": "SHA-256:EE3AD82AB6E83E4C96D185CAA8FA11D0D17B388AB52EB4C2D985150C569BAF92",
-              "size": "1699550"
+              "url": "https://github.com/YuukiUmeta-UIAP/ch32v003fun/releases/download/1.0.0/minichlink-2982dfd-1.0.0.tar.gz",
+              "archiveFileName": "minichlink-2982dfd-1.0.0.tar.gz",
+              "checksum": "SHA-256:015804caf1ccb963e2482e0bd0c17df6513d383ca23a947c59604a20d24f2193",
+              "size": "313160"
             },
             {
               "host": "x86_64-apple-darwin",
-	      "url": "https://codeload.github.com/ChipstackLTD/zerobase-extra/tar.gz/refs/tags/v1.0.0",
-              "archiveFileName": "zerobase-extra-1.0.0.tar.gz",
-              "checksum": "SHA-256:EE3AD82AB6E83E4C96D185CAA8FA11D0D17B388AB52EB4C2D985150C569BAF92",
-              "size": "1699550"
+              "url": "https://github.com/YuukiUmeta-UIAP/ch32v003fun/releases/download/1.0.0/minichlink-2982dfd-1.0.0.tar.gz",
+              "archiveFileName": "minichlink-2982dfd-1.0.0.tar.gz",
+              "checksum": "SHA-256:015804caf1ccb963e2482e0bd0c17df6513d383ca23a947c59604a20d24f2193",
+              "size": "313160"
             }
           ]
         }	
