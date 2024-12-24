@@ -14,12 +14,13 @@
           "architecture": "ch32v",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://codeload.github.com/ChipstackLTD/Zerobase/zip/refs/tags/v1.0.0",
-          "archiveFileName": "Zerobase-1.0.0.zip",
-          "checksum": "SHA-256:3E2A917AC727DADE9E8EA13F5A29EA29D40F77882DE715CBAB2BFA723C51A66D",
-          "size": "1351787",
+          "url": "https://codeload.github.com/ChipstackLTD/Zerobase/zip/refs/tags/v1.0.1",
+          "archiveFileName": "Zerobase-1.0.1.zip",
+          "checksum": "SHA-256:973E1A2CA015CA6D1DE6E5AACEDC8C2AD158A784640C51A3DF2678AFA6867E3D",
+          "size": "1352660",
           "boards": [
-            {"name": "Zerobase"}
+            {"name": "Zerobase"},
+            {"name": "Zerobase 2"}
           ],
           "toolsDependencies": [
             {
@@ -41,6 +42,11 @@
               "packager": "ZB",
               "name": "minichlink",
               "version": "1.0.0"
+            },
+            {
+              "packager": "ZB",
+              "name": "wchisp",
+              "version": "0.3.0"
             }
           ]
         }
@@ -58,20 +64,20 @@
               "checksum": "SHA-256:43DF880A1908C873A8B6AB115568C6BEAEEC41DDADEB5202703B6AA9FDE50626",
               "size": "267710516"
             },
-			{
+            {
               "host": "x86_64-linux-gnu",
               "url": "https://codeload.github.com/TianpeiLee/wch_gcc_8_linux/tar.gz/refs/tags/8.2.0",
               "archiveFileName": "wch_gcc_8_linux-8.2.0.tar.gz",
               "checksum": "SHA-256:967FB021E5689FF79A06A71C7E54FB7FACE418D5E9B27EC64F5E56687557A282",
               "size": "245443061"				
-			},
-			{
+      			},
+      			{
               "host": "x86_64-apple-darwin",
               "url": "https://codeload.github.com/TianpeiLee/wch_gcc_macos/tar.gz/refs/tags/8.2.0",
               "archiveFileName": "wch_gcc_macos-8.2.0.tar.gz",
               "checksum": "SHA-256:E14538AE7B621DE798C2466B338A4174CCE22C9CF12E5C1684C0995931738260",
               "size": "160591401"				
-			}			
+            }			
           ]
         },
         {
@@ -114,7 +120,7 @@
               "checksum": "SHA-256:17EF3A94BC46B9EB9AB1FDECC48FCD3880EEB8FCC36E6648626320F0BF2864DC",
               "size": "507269"
             },
-	    {
+            {
               "host": "i686-mingw32",
               "url": "https://github.com/ChipstackLTD/zerobase-beforeinstall/raw/main/empty.tar.gz",
               "archiveFileName": "empty.tar.gz",
@@ -130,34 +136,62 @@
             }
           ]
         },
-	{
+        {
           "name": "minichlink",
           "version": "1.0.0",
           "systems":
           [
             {
               "host": "x86_64-linux-gnu",
-              "url": "https://codeload.github.com/ChipstackLTD/zerobase-uploader/tar.gz/refs/tags/v1.0.0",
-              "archiveFileName": "zerobase-uploader-1.0.0.tar.gz",
+              "url": "https://codeload.github.com/ChipstackLTD/zerobase-minichlink/tar.gz/refs/tags/v1.0.0",
+              "archiveFileName": "zerobase-minichlink-1.0.0.tar.gz",
               "checksum": "SHA-256:EE5562CA59F9249FBAB1FF8E6B12291627B5E0EE01AEA3F5D9E2F2F4BB97FB4C",
               "size": "316053"
             },
             {
               "host": "i686-mingw32",
-	      "url": "https://codeload.github.com/ChipstackLTD/zerobase-uploader/tar.gz/refs/tags/v1.0.0",
-              "archiveFileName": "zerobase-uploader-1.0.0.tar.gz",
+              "url": "https://codeload.github.com/ChipstackLTD/zerobase-minichlink/tar.gz/refs/tags/v1.0.0",
+              "archiveFileName": "zerobase-minichlink-1.0.0.tar.gz",
               "checksum": "SHA-256:EE5562CA59F9249FBAB1FF8E6B12291627B5E0EE01AEA3F5D9E2F2F4BB97FB4C",
               "size": "316053"
             },
             {
               "host": "x86_64-apple-darwin",
-	      "url": "https://codeload.github.com/ChipstackLTD/zerobase-uploader/tar.gz/refs/tags/v1.0.0",
-              "archiveFileName": "zerobase-uploader-1.0.0.tar.gz",
+              "url": "https://codeload.github.com/ChipstackLTD/zerobase-minichlink/tar.gz/refs/tags/v1.0.0",
+              "archiveFileName": "zerobase-minichlink-1.0.0.tar.gz",
               "checksum": "SHA-256:EE5562CA59F9249FBAB1FF8E6B12291627B5E0EE01AEA3F5D9E2F2F4BB97FB4C",
               "size": "316053"
             }
           ]
-        }	
+        },
+        {
+          "name": "wchisp",
+          "version": "1.0.0",
+          "systems":
+          [
+            {
+              "host": "x86_64-linux-gnu",
+              "url": "https://codeload.github.com/ChipstackLTD/zerobase-wchisp/tar.gz/refs/tags/v0.3.0",
+              "archiveFileName": "zerobase-wchisp-0.3.0.tar.gz",
+              "checksum": "SHA-256:44E8395431942BFD8DA4944338FDDC81880DA2BF7BE56133C8D2CF83FB3131A9",
+              "size": "4110532"
+            },
+            {
+              "host": "i686-mingw32",
+              "url": "https://codeload.github.com/ChipstackLTD/zerobase-wchisp/tar.gz/refs/tags/v0.3.0",
+              "archiveFileName": "zerobase-wchisp-0.3.0.tar.gz",
+              "checksum": "SHA-256:44E8395431942BFD8DA4944338FDDC81880DA2BF7BE56133C8D2CF83FB3131A9",
+              "size": "4110532"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://codeload.github.com/ChipstackLTD/zerobase-wchisp/tar.gz/refs/tags/v0.3.0",
+              "archiveFileName": "zerobase-wchisp-0.3.0.tar.gz",
+              "checksum": "SHA-256:44E8395431942BFD8DA4944338FDDC81880DA2BF7BE56133C8D2CF83FB3131A9",
+              "size": "4110532"
+            }
+          ]
+        } 
       ]
     }
   ]
