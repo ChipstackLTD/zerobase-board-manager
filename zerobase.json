@@ -138,29 +138,29 @@
         },
         {
           "name": "minichlink",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "systems":
           [
             {
               "host": "x86_64-linux-gnu",
-              "url": "https://codeload.github.com/ChipstackLTD/zerobase-minichlink/tar.gz/refs/tags/v1.0.0",
-              "archiveFileName": "zerobase-minichlink-1.0.0.tar.gz",
-              "checksum": "SHA-256:EE5562CA59F9249FBAB1FF8E6B12291627B5E0EE01AEA3F5D9E2F2F4BB97FB4C",
-              "size": "316053"
+              "url": "https://codeload.github.com/ChipstackLTD/zerobase-minichlink/tar.gz/refs/tags/v1.0.1",
+              "archiveFileName": "zerobase-minichlink-1.0.1.tar.gz",
+              "checksum": "SHA-256:396717BBDC5D1EF39167AB1F70B70275D9169E50C61DD7BC5E43DC91A595E906",
+              "size": "335333"
             },
             {
               "host": "i686-mingw32",
-              "url": "https://codeload.github.com/ChipstackLTD/zerobase-minichlink/tar.gz/refs/tags/v1.0.0",
-              "archiveFileName": "zerobase-minichlink-1.0.0.tar.gz",
-              "checksum": "SHA-256:EE5562CA59F9249FBAB1FF8E6B12291627B5E0EE01AEA3F5D9E2F2F4BB97FB4C",
-              "size": "316053"
+              "url": "https://codeload.github.com/ChipstackLTD/zerobase-minichlink/tar.gz/refs/tags/v1.0.1",
+              "archiveFileName": "zerobase-minichlink-1.0.1.tar.gz",
+              "checksum": "SHA-256:396717BBDC5D1EF39167AB1F70B70275D9169E50C61DD7BC5E43DC91A595E906",
+              "size": "335333"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://codeload.github.com/ChipstackLTD/zerobase-minichlink/tar.gz/refs/tags/v1.0.0",
-              "archiveFileName": "zerobase-minichlink-1.0.0.tar.gz",
-              "checksum": "SHA-256:EE5562CA59F9249FBAB1FF8E6B12291627B5E0EE01AEA3F5D9E2F2F4BB97FB4C",
-              "size": "316053"
+              "url": "https://codeload.github.com/ChipstackLTD/zerobase-minichlink/tar.gz/refs/tags/v1.0.1",
+              "archiveFileName": "zerobase-minichlink-1.0.1.tar.gz",
+              "checksum": "SHA-256:396717BBDC5D1EF39167AB1F70B70275D9169E50C61DD7BC5E43DC91A595E906",
+              "size": "335333"
             }
           ]
         },
