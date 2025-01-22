@@ -12,16 +12,13 @@
         {
           "name": "Zerobase",
           "architecture": "ch32v",
-          "version": "1.0.1",
+          "version": "1.0.2",
           "category": "Contributed",
-          "url": "https://codeload.github.com/ChipstackLTD/Zerobase/zip/refs/tags/v1.0.1",
-          "archiveFileName": "Zerobase-1.0.1.zip",
-          "checksum": "SHA-256:973E1A2CA015CA6D1DE6E5AACEDC8C2AD158A784640C51A3DF2678AFA6867E3D",
-          "size": "1352660",
-          "boards": [
-            {"name": "Zerobase"},
-            {"name": "Zerobase 2"}
-          ],
+          "url": "https://codeload.github.com/ChipstackLTD/Zerobase/zip/refs/tags/v1.0.2",
+          "archiveFileName": "Zerobase-1.0.2.zip",
+          "checksum": "SHA-256:38712EE709624B6692A625272137DE77E1F43769C160CBE0B7ABAC604AAC52C9",
+          "size": "1352619",
+          "boards": [{ "name": "Zerobase" }, { "name": "Zerobase 2" }],
           "toolsDependencies": [
             {
               "packager": "ZB",
@@ -55,8 +52,7 @@
         {
           "name": "riscv-none-embed-gcc",
           "version": "8.2.0",
-          "systems":
-          [
+          "systems": [
             {
               "host": "i686-mingw32",
               "url": "https://codeload.github.com/openwch/risc-none-embed-gcc/zip/refs/tags/8.2.0",
@@ -69,22 +65,21 @@
               "url": "https://codeload.github.com/TianpeiLee/wch_gcc_8_linux/tar.gz/refs/tags/8.2.0",
               "archiveFileName": "wch_gcc_8_linux-8.2.0.tar.gz",
               "checksum": "SHA-256:967FB021E5689FF79A06A71C7E54FB7FACE418D5E9B27EC64F5E56687557A282",
-              "size": "245443061"				
-      			},
-      			{
+              "size": "245443061"
+            },
+            {
               "host": "x86_64-apple-darwin",
               "url": "https://codeload.github.com/TianpeiLee/wch_gcc_macos/tar.gz/refs/tags/8.2.0",
               "archiveFileName": "wch_gcc_macos-8.2.0.tar.gz",
               "checksum": "SHA-256:E14538AE7B621DE798C2466B338A4174CCE22C9CF12E5C1684C0995931738260",
-              "size": "160591401"				
-            }			
+              "size": "160591401"
+            }
           ]
         },
         {
           "name": "openocd",
           "version": "1.0.0",
-          "systems":
-          [
+          "systems": [
             {
               "host": "i686-mingw32",
               "url": "https://codeload.github.com/openwch/openocd_wch/zip/refs/tags/1.0.0",
@@ -105,14 +100,13 @@
               "archiveFileName": "wch_openocd_macos-1.0.0.tar.gz",
               "checksum": "SHA-256:100DC6A75E302D5E3FF7548FE64351AA545353982BA22C19D43555F3A748BE0E",
               "size": "1995618"
-            }			
+            }
           ]
         },
         {
           "name": "beforeinstall",
           "version": "1.0.0",
-          "systems":
-          [
+          "systems": [
             {
               "host": "x86_64-linux-gnu",
               "url": "https://codeload.github.com/TianpeiLee/wch_beforeinstall_linux/tar.gz/refs/tags/1.0.0",
@@ -139,8 +133,7 @@
         {
           "name": "minichlink",
           "version": "1.0.1",
-          "systems":
-          [
+          "systems": [
             {
               "host": "x86_64-linux-gnu",
               "url": "https://codeload.github.com/ChipstackLTD/zerobase-minichlink/tar.gz/refs/tags/v1.0.1",
@@ -167,8 +160,7 @@
         {
           "name": "wchisp",
           "version": "0.3.0",
-          "systems":
-          [
+          "systems": [
             {
               "host": "x86_64-linux-gnu",
               "url": "https://codeload.github.com/ChipstackLTD/zerobase-wchisp/tar.gz/refs/tags/v0.3.0",
@@ -191,9 +183,8 @@
               "size": "4110532"
             }
           ]
-        } 
+        }
       ]
     }
   ]
 }
-
