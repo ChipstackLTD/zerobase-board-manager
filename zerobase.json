@@ -14,10 +14,10 @@
           "architecture": "ch32v",
           "version": "1.0.3",
           "category": "Contributed",
-          "url": "https://codeload.github.com/ChipstackLTD/Zerobase/zip/refs/tags/v1.0.3",
+          "url": "https://github.com/ChipstackLTD/Zerobase/releases/download/v1.0.3/Zerobase-1.0.3.zip",
           "archiveFileName": "Zerobase-1.0.3.zip",
-          "checksum": "SHA-256:A30214FB6039F01C0EC6E063DA82C5478D3C629FD85AF06FFBC83D9D31F2AFCD",
-          "size": "5368396",
+          "checksum": "SHA-256:BB739599F5E7E6AFAB86BE11F22D8826BC6FF46240DD721786B9F8FD1940C5FC",
+          "size": "2283542",
           "boards": [{ "name": "Zerobase" }, { "name": "Zerobase 2" }, { "name": "Zerobase 2W" }],
           "toolsDependencies": [
             {
