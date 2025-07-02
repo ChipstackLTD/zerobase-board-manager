@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/ChipstackLTD/Zerobase/releases/download/v1.0.3/Zerobase-1.0.3.zip",
           "archiveFileName": "Zerobase-1.0.3.zip",
-          "checksum": "SHA-256:069EAA55BBB0702DF1047A1D80C76C8AB0DE7F077EAF4797ECE75C6B86BE67D5",
-          "size": "2283544",
+          "checksum": "SHA-256:F4B6DA7F9075472D096D8C16C927F01352EF5A30B42AB45064CF4530B0B8FD42",
+          "size": "2319852",
           "boards": [{ "name": "Zerobase" }, { "name": "Zerobase 2" }, { "name": "Zerobase 2W" }],
           "toolsDependencies": [
             {
