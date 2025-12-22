@@ -12,10 +12,10 @@
         {
           "name": "Zerobase",
           "architecture": "ch32v",
-          "version": "1.0.6",
+          "version": "1.0.7",
           "category": "Contributed",
-          "url": "https://github.com/ChipstackLTD/Zerobase/releases/download/v1.0.6/Zerobase-v1.0.6.zip",
-          "archiveFileName": "Zerobase-v1.0.6.zip",
+          "url": "https://github.com/ChipstackLTD/Zerobase/releases/download/v1.0.7/Zerobase-v1.0.7.zip",
+          "archiveFileName": "Zerobase-v1.0.7.zip",
           "checksum": "SHA-256:09e80017ae838f9b9acc72c5fd57e227a1991255874c0413fd23834de00b7177",
           "size": "1700809",
           "boards": [{"name": "Zerobase"}, {"name": "Zerobase 2"}, {"name": "Zerobase 2W"}, {"name": "Zerobase Core"}],
@@ -28,7 +28,7 @@
             {
               "packager": "ZB",
               "name": "minichlink",
-              "version": "1.0.2"
+              "version": "1.0.3"
             },
             {
               "packager": "ZB",
@@ -89,14 +89,14 @@
         },
         {
           "name": "minichlink",
-          "version": "1.0.2",
+          "version": "1.0.3",
           "systems": [
             {
               "host": "x86_64-linux-gnu",
-              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.2/zerobase-minichlink-v1.0.2.zip",
-              "archiveFileName": "zerobase-minichlink-v1.0.2.zip",
-              "checksum": "SHA-256:368dd7b4e3c96f0f05a70e91811952d058c2e59a0df5870795a8df6bc2d45ca8",
-              "size": "387820"
+              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.3/zerobase-minichlink-v1.0.3.zip",
+              "archiveFileName": "zerobase-minichlink-v1.0.3.zip",
+              "checksum": "SHA-256:aaded47e66a118ba051576446131a5cc0fee79971b9c9b9a83a73522009afed0",
+              "size": "384699"
             },
             {
               "host": "aarch64-linux-gnu",
@@ -114,24 +114,24 @@
             },
             {
               "host": "x86_64-mingw32",
-              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.2/zerobase-minichlink-v1.0.2.zip",
-              "archiveFileName": "zerobase-minichlink-v1.0.2.zip",
-              "checksum": "SHA-256:368dd7b4e3c96f0f05a70e91811952d058c2e59a0df5870795a8df6bc2d45ca8",
-              "size": "387820"
+              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.3/zerobase-minichlink-v1.0.3.zip",
+              "archiveFileName": "zerobase-minichlink-v1.0.3.zip",
+              "checksum": "SHA-256:aaded47e66a118ba051576446131a5cc0fee79971b9c9b9a83a73522009afed0",
+              "size": "384699"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/ChipstackLTD/zerobase-empty-package/releases/download/v1.0.0/zerobase-empty-package-v1.0.0.zip",
-              "archiveFileName": "zerobase-empty-package-v1.0.0.zip",
-              "checksum": "SHA-256:18f97d4415ba3b697ddc581eb4e345e1833aba804d3ebe133fc30fba7f8ecb6b",
-              "size": "641"
+              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.3/zerobase-minichlink-v1.0.3.zip",
+              "archiveFileName": "zerobase-minichlink-v1.0.3.zip",
+              "checksum": "SHA-256:aaded47e66a118ba051576446131a5cc0fee79971b9c9b9a83a73522009afed0",
+              "size": "384699"
             },
             {
               "host": "arm64-apple-darwin",
-              "url": "https://github.com/ChipstackLTD/zerobase-empty-package/releases/download/v1.0.0/zerobase-empty-package-v1.0.0.zip",
-              "archiveFileName": "zerobase-empty-package-v1.0.0.zip",
-              "checksum": "SHA-256:18f97d4415ba3b697ddc581eb4e345e1833aba804d3ebe133fc30fba7f8ecb6b",
-              "size": "641"
+              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.3/zerobase-minichlink-v1.0.3.zip",
+              "archiveFileName": "zerobase-minichlink-v1.0.3.zip",
+              "checksum": "SHA-256:aaded47e66a118ba051576446131a5cc0fee79971b9c9b9a83a73522009afed0",
+              "size": "384699"
             }
           ]
         },
