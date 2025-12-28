@@ -28,7 +28,7 @@
             {
               "packager": "ZB",
               "name": "minichlink",
-              "version": "1.0.4"
+              "version": "1.0.5"
             },
             {
               "packager": "ZB",
@@ -89,13 +89,13 @@
         },
         {
           "name": "minichlink",
-          "version": "1.0.4",
+          "version": "1.0.5",
           "systems": [
             {
               "host": "x86_64-linux-gnu",
-              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.4/zerobase-minichlink-v1.0.4.zip",
-              "archiveFileName": "zerobase-minichlink-v1.0.4.zip",
-              "checksum": "SHA-256:652a0b7210cfbec5a6689c2b488a24a1a907375ee0c752dee7a66e24afa6a639",
+              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.5/zerobase-minichlink-v1.0.5.zip",
+              "archiveFileName": "zerobase-minichlink-v1.0.5.zip",
+              "checksum": "SHA-256:b74b845660ff6071f44a9438428a51e993864f48140f1125e207c884748e622a",
               "size": "384699"
             },
             {
@@ -114,36 +114,36 @@
             },
             {
               "host": "x86_64-mingw32",
-              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.4/zerobase-minichlink-v1.0.4.zip",
-              "archiveFileName": "zerobase-minichlink-v1.0.4.zip",
-              "checksum": "SHA-256:652a0b7210cfbec5a6689c2b488a24a1a907375ee0c752dee7a66e24afa6a639",
+              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.5/zerobase-minichlink-v1.0.5.zip",
+              "archiveFileName": "zerobase-minichlink-v1.0.5.zip",
+              "checksum": "SHA-256:b74b845660ff6071f44a9438428a51e993864f48140f1125e207c884748e622a",
               "size": "384699"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.4/zerobase-minichlink-v1.0.4.zip",
-              "archiveFileName": "zerobase-minichlink-v1.0.4.zip",
-              "checksum": "SHA-256:652a0b7210cfbec5a6689c2b488a24a1a907375ee0c752dee7a66e24afa6a639",
+              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.5/zerobase-minichlink-v1.0.5.zip",
+              "archiveFileName": "zerobase-minichlink-v1.0.5.zip",
+              "checksum": "SHA-256:b74b845660ff6071f44a9438428a51e993864f48140f1125e207c884748e622a",
               "size": "384699"
             },
             {
               "host": "arm64-apple-darwin",
-              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.4/zerobase-minichlink-v1.0.4.zip",
-              "archiveFileName": "zerobase-minichlink-v1.0.4.zip",
-              "checksum": "SHA-256:652a0b7210cfbec5a6689c2b488a24a1a907375ee0c752dee7a66e24afa6a639",
+              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.5/zerobase-minichlink-v1.0.5.zip",
+              "archiveFileName": "zerobase-minichlink-v1.0.5.zip",
+              "checksum": "SHA-256:b74b845660ff6071f44a9438428a51e993864f48140f1125e207c884748e622a",
               "size": "384699"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.4/zerobase-minichlink-v1.0.4.zip",
-              "archiveFileName": "zerobase-minichlink-v1.0.4.zip",
-              "checksum": "SHA-256:652a0b7210cfbec5a6689c2b488a24a1a907375ee0c752dee7a66e24afa6a639",
+              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.5/zerobase-minichlink-v1.0.5.zip",
+              "archiveFileName": "zerobase-minichlink-v1.0.5.zip",
+              "checksum": "SHA-256:b74b845660ff6071f44a9438428a51e993864f48140f1125e207c884748e622a",
               "size": "384699"
             },
             {
               "host": "arm64-apple-darwin",
-              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.4/zerobase-minichlink-v1.0.4.zip",
-              "archiveFileName": "zerobase-minichlink-v1.0.4.zip",
+              "url": "https://github.com/ChipstackLTD/zerobase-minichlink/releases/download/v1.0.5/zerobase-minichlink-v1.0.5.zip",
+              "archiveFileName": "zerobase-minichlink-v1.0.5.zip",
               "checksum": "SHA-256:aaded47e66a118ba051576446131a5cc0fee79971b9c9b9a83a73522009afed0",
               "size": "384699"
             }
