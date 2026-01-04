@@ -12,13 +12,13 @@
         {
           "name": "Zerobase",
           "architecture": "ch32v",
-          "version": "1.0.7",
+          "version": "1.0.8",
           "category": "Contributed",
-          "url": "https://github.com/ChipstackLTD/Zerobase/releases/download/v1.0.7/Zerobase-v1.0.7.zip",
-          "archiveFileName": "Zerobase-v1.0.7.zip",
-          "checksum": "SHA-256:ef8c8112ef3dcdca966d64d5b4b8785075a7f7d5eba4cc72e78ff7076a871882",
+          "url": "https://github.com/ChipstackLTD/Zerobase/releases/download/v1.0.8/Zerobase-v1.0.8.zip",
+          "archiveFileName": "Zerobase-v1.0.8.zip",
+          "checksum": "SHA-256:3fb1d7c6e60f6112f03f78aab46b3427e272bea94514cab2b06e7cbf4f2774c5",
           "size": "6649960",
-          "boards": [{"name": "Zerobase"}, {"name": "Zerobase 2"}, {"name": "Zerobase 2W"}, {"name": "Zerobase Core"}],
+          "boards": [{"name": "Zerobase"}, {"name": "Zerobase 2"}, {"name": "Zerobase 2W"}],
           "toolsDependencies": [
             {
               "packager": "ZB",
