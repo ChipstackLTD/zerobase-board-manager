@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://github.com/ChipstackLTD/Zerobase/releases/download/v1.0.8/Zerobase-v1.0.8.zip",
           "archiveFileName": "Zerobase-v1.0.8.zip",
-          "checksum": "SHA-256:3fb1d7c6e60f6112f03f78aab46b3427e272bea94514cab2b06e7cbf4f2774c5",
+          "checksum": "SHA-256:60e70e2d014f732e1d3a0084825262259e83b79008a3e88f006ff0c4707c271a",
           "size": "6649960",
           "boards": [{"name": "Zerobase"}, {"name": "Zerobase 2"}, {"name": "Zerobase 2W"}],
           "toolsDependencies": [
